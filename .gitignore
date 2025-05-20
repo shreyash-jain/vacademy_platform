@@ -67,3 +67,6 @@
 /frontend-learner-dashboard/*.njsproj
 /frontend-learner-dashboard/*.sln
 /frontend-learner-dashboard/*.sw?
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
